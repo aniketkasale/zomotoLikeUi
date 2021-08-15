@@ -1,0 +1,46 @@
+header h1 {
+  font-family: -webkit-body;
+  font-size: 40px;
+  font-weight: 900;
+  margin: 25px 44px;
+}
+.sidenav {
+  height: 100%;
+  width: 137px;
+
+  left: 8px;
+  padding-left: 13px;
+  margin-top: 36px;
+  padding-top: 1px;
+  position: fixed;
+}
+.sidenav span {
+  display: block;
+  padding: 8px;
+  width: 100%;
+  line-height: 60px;
+  text-decoration: none;
+  transition: 0.5s;
+  transition-property: text-decoration;
+  font-family: inherit;
+  font-size: 18px;
+}
+.sidenav span:hover {
+  text-decoration: line-through #fe4f4e;
+}
+.btn {
+    width: inherit;
+    border: 0;
+    background: #fe4f4e;
+    display: block;
+    margin: 36px 45px;
+    text-align: center;
+    border: 2px solid;
+    padding: 14px 40px;
+    outline: none;
+    color: wheat;
+    border-radius: 30px;
+    transition: 0.25px;
+    cursor: pointer;
+    font-size: 20px;
+}

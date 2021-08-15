@@ -1,0 +1,23 @@
+.font{
+    font-size: 83px;
+    padding: 155px 272px 7px 214px;
+}
+.content{
+    position: absolute;
+    top: 164px;
+    right: 190px;
+    font-size: 17px;
+}
+.header{
+    display:table;
+    
+}
+.line{
+    padding: 1.5px;
+    /* color: red; */
+    background-color: red;
+    width: 92px;
+    /* top: 94px; */
+    margin-top: 17px;
+    border-style: hidden;
+}
